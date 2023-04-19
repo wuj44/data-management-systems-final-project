@@ -1,0 +1,2 @@
+For Windows users: http://localhost/hoteldb/index.html
+For Mac users: http://localhost:8888/hoteldb/index.html
